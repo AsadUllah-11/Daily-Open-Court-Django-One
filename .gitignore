@@ -48,7 +48,8 @@ lerna-debug.log*
 
 # React build
 frontend/build/
-frontend/. pnpm-store/
+frontend/dist/
+frontend/.pnpm-store/
 
 # IDEs
 .vscode/
